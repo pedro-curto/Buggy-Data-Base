@@ -1,21 +1,15 @@
 # Buggy Data Base
-A program to (....)
+This is a simple didactic project for a class called Foundations of Programming that I made during the first year of my Computer Science and Engineering degree,
+to get familiarized with core concepts and programming.
 
-Welcome!
+It is supposed to identify and fix the problems of a buggy database, which contains several problems, using Python:
+- Fixing documentation
+- Finding the database PIN
+- Check data coherence
+- Decrypting the content
+- And debugging passwords
 
-I made this project for a class called (....) using (....), during the first year of my Computer Science and Engineering degree.
-
-The interaction with the program is made through input lines that contain a certain command as the first input string and the rest follows some rules, regarding the input (everything is explained in the file_system.pdf file).
-
-The commands are:
-- 'help': prints the available commands
-- 'quit': terminates the program
-- 'set': adds or modifies a stored value
-- 'print': prints all the paths and values
-- 'find': given a path, prints it's value 
-- 'list': lists all the components of a path
-- 'search': given a value, prints it's path
-- 'delete': deletes a path and all it's subpaths
+This is all explained in the statement (pdf).
 
 Hope you enjoy it!
 
